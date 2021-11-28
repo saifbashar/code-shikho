@@ -1,0 +1,98 @@
+[
+  {
+    "key": 1,
+    "course": "Core python version 3.8",
+    "instructor": "Shagun Grag",
+    "oldPrice": 2500,
+    "price": 495,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5ec058570cf23c7fa506cf7b/5ec058570cf23c7fa506cf7b_scaled_cover.jpg?v=1"
+  },
+  {
+    "key": 2,
+    "course": "Data structures and algorithms (JS)",
+    "instructor": "Shagun Grag",
+    "oldPrice": 3000,
+    "price": 600,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f6b6f550cf24e15016f3de7/5f6b6f550cf24e15016f3de7_scaled_cover.jpg?v=2"
+  },
+  {
+    "key": 3,
+    "course": "Angular 10",
+    "instructor": "Shagun Grag",
+    "oldPrice": 6000,
+    "price": 750,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5fca89b10cf25dd1c3dad384/5fca89b10cf25dd1c3dad384_scaled_cover.jpg?v=1"
+  },
+  {
+    "key": 4,
+    "course": "Learn Git",
+    "instructor": "Shagun Grag",
+    "oldPrice": 2000,
+    "price": 490,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f11c8020cf2c328ab0a095f/5f11c8020cf2c328ab0a095f_scaled_cover.jpg?v=2"
+  },
+  {
+    "key": 5,
+    "course": "Node.js, Express.js, MongoDB with typescript in Bangla",
+    "instructor": "Shagun Grag",
+    "oldPrice": 4000,
+    "price": 590,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e48f3270cf2ae7b7bf5a96b/5e48f3270cf2ae7b7bf5a96b_scaled_cover.jpg?v=1"
+  },
+  {
+    "key": 6,
+    "course": "React Native+React J.s Beginner To Advance",
+    "instructor": "Shagun Grag",
+    "oldPrice": 5000,
+    "price": 650,
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e5937620cf24cdcd850293a/5e5937620cf24cdcd850293a_scaled_cover.jpg?v=2"
+  },
+  {
+    "key": 7,
+    "course": "Angular 4- Beginner to Pro",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 2000,
+    "price": 1500,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/stccKo5kR5iZY7CtLFvi"
+  },
+  {
+    "key": 8,
+    "course": "The Complete ASP.NET MVC 5",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 2000,
+    "price": 490,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/ofuX9lifRmVtQj4oxg64"
+  },
+  {
+    "key": 9,
+    "course": "The Ultimate Django Series: Part 1",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 2000,
+    "price": 490,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/KHTdHnlEQsy8RfIAl4Mm"
+  },
+  {
+    "key": 10,
+    "course": "The Ultimate Django Series: Part 2",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 2000,
+    "price": 790,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/KHTdHnlEQsy8RfIAl4Mm"
+  },
+  {
+    "key": 11,
+    "course": "The Ultimate Docker Course",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 2000,
+    "price": 490,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/el6Vw2cNTxeTWzrUaxO7"
+  },
+  {
+    "key": 12,
+    "course": "Complete SQL Mastery",
+    "instructor": "Mosh Hamedani",
+    "oldPrice": 4000,
+    "price": 2000,
+    "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/RL4kFbu1SMiCIeLAtWX3"
+  }
+]
